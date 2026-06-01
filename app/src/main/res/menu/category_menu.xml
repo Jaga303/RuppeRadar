@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuIncome"
+        android:title="Income"/>
+    <item android:id="@+id/menuExpense"
+        android:title="Expense"/>
+    <item android:id="@+id/menuTransfer"
+        android:title="Transfer"/>
+</menu>
